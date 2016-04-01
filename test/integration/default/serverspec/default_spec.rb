@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'motd-ubuntu::default' do
+describe 'motd_ubuntu::default' do
   # Serverspec examples can be found at
   # http://serverspec.org/resource_types.html
   it 'does something' do
