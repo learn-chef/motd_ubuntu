@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: motd-ubuntu
+# Cookbook Name:: motd_ubuntu
 # Recipe:: default
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
